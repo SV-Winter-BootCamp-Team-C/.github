@@ -171,7 +171,7 @@ docker-compose -f docker-compose.prod.yml up --build
         <th>Profile</th>
         <td width="100" align="center">
             <a href="https://github.com/dmswn1004">
-                <img src="" width="60" height="60">
+                <img src="https://avatars.githubusercontent.com/u/101851472?v=4" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
