@@ -1,5 +1,8 @@
 ## 설문 커스텀마이징 서비스, FormFlex
 
+## 🔗 System Architecture
+<img width="704" alt="스크린샷 2024-01-30 오전 2 28 52" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/68243f05-2e8c-46cf-8a49-27f243d617f1">
+
 ## 🛠️ Tech Stack
 | Frontend | Backend | DevOps | Monitoring |  ETC |
 |:--------:|:-------:|:------:|:----------:|:----:|
@@ -57,3 +60,158 @@ RABBITMQ_PASSWORD=
 ```
 docker-compose -f docker-compose.prod.yml up --build
 ```
+
+## 👥 Member
+<table width="1000">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>Name</th>
+        <td width="100" align="center">곽소정</td>
+        <td width="100" align="center">김민성</td>
+        <td width="100" align="center">강성용</td>
+        <td width="100" align="center">이진복</td>
+        <td width="100" align="center">장희선</td>
+    </tr>
+    <tr>
+        <th>Profile</th>
+        <td width="100" align="center">
+            <a href="https://github.com/ssojungg">
+                <img src="https://avatars.githubusercontent.com/u/126966126?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/mskim98">
+                <img src="https://avatars.githubusercontent.com/u/74662759?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/KangSeongYong">
+                <img src="https://avatars.githubusercontent.com/u/97003669?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jjinbok">
+                <img src="https://avatars.githubusercontent.com/u/126658197?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Jade9846">
+                <img src="https://avatars.githubusercontent.com/u/101115635?v=4" width="60" height="60">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Role</th>
+        <td width="150" align="center">
+            Leader<br>
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/ssojungg">
+                <img src="http://img.shields.io/badge/ssojungg-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/mskim98">
+                <img src="http://img.shields.io/badge/mskim98-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/KangSeongYong">
+                <img src="http://img.shields.io/badge/KangSeongYong-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jjinbok">
+                <img src="http://img.shields.io/badge/jjinbok-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Jade9846">
+                <img src="http://img.shields.io/badge/Jade9846-green?style=social&logo=github"/>
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<table width="1000">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>Name</th>
+        <td width="100" align="center">조은주</td>
+        <td width="100" align="center">김성욱</td>
+        <td width="100" align="center">백지윤</td>
+    </tr>
+    <tr>
+        <th>Profile</th>
+        <td width="100" align="center">
+            <a href="https://github.com/dmswn1004">
+                <img src="" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/castlewook99">
+                <img src="https://avatars.githubusercontent.com/u/154862467?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/baekjiyun">
+                <img src="https://avatars.githubusercontent.com/u/71875528?v=4" width="60" height="60">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Role</th>
+        <td width="150" align="center">Frontend</td>
+        <td width="150" align="center">Frontend</td>
+        <td width="150" align="center">Frontend</td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/dmswn1004">
+                <img src="http://img.shields.io/badge/dmswn1004-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/castlewook99">
+                <img src="http://img.shields.io/badge/castlewook99-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/baekjiyun">
+                <img src="http://img.shields.io/badge/baekjiyun-green?style=social&logo=github"/>
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<div align="right">
+    <b><a href="#설문-커스텀마이징-서비스-formflex">⬆️ Back to Top</a></b>
+</div>
