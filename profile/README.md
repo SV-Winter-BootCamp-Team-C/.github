@@ -1,5 +1,11 @@
 ## 설문 커스텀마이징 서비스, FormFlex
 
+```
+→ 다양한 질문 유형 제공 : 객관식, 주관식, 체크박스, 드롭 다운 등 다양한 질문 유형 제공
+→ 맞춤형 디자인 생성 : 설문의 스타일, 테마, 글꼴 등을 사용자가 원하는 대로 선택하여 사용 가능
+→ 설문 데이터 제공 : 공개된 설문의 경우, 설문의 결과를 파이 차트를 통해 확인 가능하고 엑셀 파일로도 다운 가능 
+```
+
 ## 🔗 System Architecture
 <img width="785" alt="스크린샷 2024-01-30 오전 3 56 22" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/d96629c9-ee04-47b2-b129-1b8083f15fa0">
 
@@ -204,9 +210,18 @@ docker-compose -f docker-compose.prod.yml up --build
     </tr>
     <tr>
         <th>Role</th>
-        <td width="150" align="center">Frontend</td>
-        <td width="150" align="center">Frontend</td>
-        <td width="150" align="center">Frontend</td>
+        <td width="150" align="center">
+          Frontend<br>
+          Design
+        </td>
+        <td width="150" align="center">
+          Frontend<br>
+          Design
+        </td>
+        <td width="150" align="center">
+          Frontend<br>
+          Design
+        </td>
     </tr>
     <tr>
         <th>GitHub</th>
