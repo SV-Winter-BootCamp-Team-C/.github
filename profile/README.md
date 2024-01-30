@@ -13,6 +13,7 @@
 ## 💾 ERD
 ![formflex_erd_수정](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/227944cc-ad8d-4df8-a8ee-b119559a8a15)
 
+
 ## ✨ API
 <details>
 <summary>Swagger</summary>
@@ -20,6 +21,12 @@
   <img width="1153" alt="스크린샷 2024-01-30 오전 1 03 48" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/8ca56814-cb9f-4179-a93f-6fe51f6961c9">
   <img width="1153" alt="스크린샷 2024-01-30 오전 1 04 00" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/d54fcdc6-83a6-4772-be68-87d4328ceb9b">
 </details>
+
+
+## 📊 Monitoring
+> Google Analytics
+<img width="1536" alt="스크린샷 2024-01-30 오전 1 29 44" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/cdac410c-4bf1-4af1-9853-c9271795ecaf">
+
 
 ## 🔑 Installation
 ### 1. Clone Repository
@@ -61,6 +68,7 @@ RABBITMQ_PASSWORD=
 ```
 docker-compose -f docker-compose.prod.yml up --build
 ```
+
 
 ## 👥 Member
 <table width="1000">
