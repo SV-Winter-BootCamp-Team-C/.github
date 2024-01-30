@@ -1,5 +1,6 @@
 ## 설문 커스텀마이징 서비스, FormFlex
-![Group 837](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/3f26706d-a4f0-41ea-aeb9-da63d3aec657)
+![Group 837 (1)](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/b6bfeb0e-91a1-4d2a-8d87-ca98381f2a7b)
+
 
 ```
 → 다양한 질문 유형 제공 : 객관식, 주관식, 체크박스, 드롭 다운 등 다양한 질문 유형 제공
