@@ -38,6 +38,10 @@
 
 ![0E43D22A-682C-486F-813A-D1345FAC7EAA](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/93b8180e-b937-4380-935f-78c986ce5827)
 
+> ELK
+
+![5820F0C2-BBF7-4A74-BDC1-5152C814E45A](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/109b3ff3-506f-4a00-ae64-0c5ebf2de579)
+
 > Google Analytics
 <img width="1536" alt="스크린샷 2024-01-30 오전 1 29 44" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/cdac410c-4bf1-4af1-9853-c9271795ecaf">
 
