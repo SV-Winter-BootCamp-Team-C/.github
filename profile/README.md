@@ -24,6 +24,14 @@
 
 
 ## 📊 Monitoring
+> Prometheus & Grafana
+
+![8D9CC5F1-4DF5-4891-A58F-6D063FA97B6E](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/d99ba487-4852-4e63-8bb8-a1bf06e7fdad)
+
+> cAdvisor
+
+![0E43D22A-682C-486F-813A-D1345FAC7EAA](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/93b8180e-b937-4380-935f-78c986ce5827)
+
 > Google Analytics
 <img width="1536" alt="스크린샷 2024-01-30 오전 1 29 44" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/cdac410c-4bf1-4af1-9853-c9271795ecaf">
 
