@@ -5,7 +5,7 @@
 → 맞춤형 디자인 생성 : 설문의 스타일, 테마, 글꼴 등을 사용자가 원하는 대로 선택하여 사용 가능
 → 설문 데이터 제공 : 공개된 설문의 경우, 설문의 결과를 파이 차트를 통해 확인 가능하고 엑셀 파일로도 다운 가능 
 ```
-![intro_2.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/76f99a7e-68ea-42ba-afcf-db04a6811edf/5ad960a4-77b8-44ee-862b-48de4df95644/intro_2.gif)
+
 ## 🔗 System Architecture
 <img width="785" alt="스크린샷 2024-01-30 오전 3 56 22" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/d96629c9-ee04-47b2-b129-1b8083f15fa0">
 
