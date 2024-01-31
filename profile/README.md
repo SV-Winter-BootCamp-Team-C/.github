@@ -8,6 +8,40 @@
 → 설문 데이터 제공 : 공개된 설문의 경우, 설문의 결과를 파이 차트를 통해 확인 가능하고 엑셀 파일로도 다운 가능 
 ```
 
+## :video_camera: Demo
+
+### :clipboard: 메인 페이지
+<img width="800" alt="intro" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/71875528/aeda3ab5-23b0-4809-9cfa-a9a0736f597a">
+
+
+### :clipboard: 회원가입, 로그인 페이지
+<img width="800" alt="회원가입로그인" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/71875528/036c32b4-c40a-4d06-8d16-8c4e9f61f059">
+
+
+### :clipboard: 설문 조회 페이지
+<img width="800" alt="메인페이지 조회" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/71875528/fbdebcec-d159-4626-afb4-7ad7edfc6a5d">
+
+
+### :clipboard: 설문 생성 페이지 (스타일)
+<img width="800" alt="스타일생성" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/71875528/e76f648b-c356-4ab4-91e3-0e117125e83f">
+
+
+### :clipboard: 설문 생성 (문항)
+<img width="800" alt="문항생성" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/71875528/13635dc3-5aa3-440c-a0c3-e8db1a01d2e0">
+
+
+### :clipboard: 설문 응답 페이지
+<img width="800" alt="설문응답하기" src="https://github.com/SV-Winter-BootCamp-Team-C/project/assets/71875528/be66c6b2-248d-4f72-b2e0-0f5cde9d0c17">
+
+
+### :clipboard: 설문 분석 페이지
+<img width="800" alt="설문분석" src="https://github.com/SV-Winter-BootCamp-Team-C/project/assets/71875528/0b6cb01e-610b-4efa-a4f4-87b8a4d18eb9">
+
+
+### :clipboard: 설문 공유
+<img width="800" alt="이메일공유전송" src="https://github.com/SV-Winter-BootCamp-Team-C/project/assets/71875528/354ebe76-6787-4415-aae2-123958359092">
+
+
 ## 🔗 System Architecture
 <img width="785" alt="스크린샷 2024-01-30 오전 3 56 22" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/d96629c9-ee04-47b2-b129-1b8083f15fa0">
 
