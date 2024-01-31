@@ -45,8 +45,8 @@
 ![5820F0C2-BBF7-4A74-BDC1-5152C814E45A](https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/109b3ff3-506f-4a00-ae64-0c5ebf2de579)
 
 > Google Analytics
-<img width="1536" alt="스크린샷 2024-01-30 오전 1 29 44" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/cdac410c-4bf1-4af1-9853-c9271795ecaf">
-
+<img width="1987" alt="스크린샷 2024-02-01 오전 12 49 25" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/50caf47e-9b12-49e6-af52-bf5bef6c73c1">
+<img width="2031" alt="스크린샷 2024-02-01 오전 12 49 39" src="https://github.com/SV-Winter-BootCamp-Team-C/.github/assets/101851472/cf837dc2-b09f-46b1-b490-f9b13f64e80d">
 
 ## 🔑 Installation
 ### 1. Clone Repository
