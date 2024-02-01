@@ -13,7 +13,7 @@
 ## :video_camera: Demo
 
 ### :clipboard: 메인 페이지
-<img width="1000" alt="메인 페이지" src="https://github.com/SV-Winter-BootCamp-Team-C/project/assets/71875528/77e97901-2940-4ae8-86b4-acbe4b4d01af">
+<img width="800" alt="메인 페이지" src="https://github.com/SV-Winter-BootCamp-Team-C/project/assets/71875528/69184259-f910-4215-85d2-1d02ac9ef194">
 
 
 ### :clipboard: 회원가입, 로그인 페이지
